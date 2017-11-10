@@ -1,5 +1,7 @@
 #! /Users/karlnilsen/bin/anaconda/bin/python
 
+# Extract some information from .emlx files
+
 import os
 import re
 from collections import Counter
