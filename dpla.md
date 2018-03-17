@@ -1,4 +1,4 @@
-#Getting started with the Digital Public Library of America (DPLA) API
+# Getting started with the Digital Public Library of America (DPLA) API
 
 *This post was my contribution to a longer post on the [Digital Systems and Stewardship](http://www.lib.umd.edu/dss) blog of the University of Maryland Libraries. [Read the full post](http://dssumd.wordpress.com/2014/04/24/a-brief-introduction-to-apis/).*
             	
